@@ -1,1 +1,2 @@
-# csharp-project
+# C# project
+Проекты созданные в колледже
