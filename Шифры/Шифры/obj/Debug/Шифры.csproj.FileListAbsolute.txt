@@ -1,0 +1,10 @@
+C:\Users\Usver\source\repos\Шифры\Шифры\bin\Debug\Шифры.exe.config
+C:\Users\Usver\source\repos\Шифры\Шифры\bin\Debug\Шифры.exe
+C:\Users\Usver\source\repos\Шифры\Шифры\bin\Debug\Шифры.pdb
+C:\Users\Usver\source\repos\Шифры\Шифры\obj\Debug\Шифры.csprojAssemblyReference.cache
+C:\Users\Usver\source\repos\Шифры\Шифры\obj\Debug\Шифры.Form1.resources
+C:\Users\Usver\source\repos\Шифры\Шифры\obj\Debug\Шифры.Properties.Resources.resources
+C:\Users\Usver\source\repos\Шифры\Шифры\obj\Debug\Шифры.csproj.GenerateResource.cache
+C:\Users\Usver\source\repos\Шифры\Шифры\obj\Debug\Шифры.csproj.CoreCompileInputs.cache
+C:\Users\Usver\source\repos\Шифры\Шифры\obj\Debug\Шифры.exe
+C:\Users\Usver\source\repos\Шифры\Шифры\obj\Debug\Шифры.pdb

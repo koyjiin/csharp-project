@@ -1,0 +1,13 @@
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\bin\Debug\netcoreapp3.1\экзПМ.06.exe
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\bin\Debug\netcoreapp3.1\экзПМ.06.deps.json
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\bin\Debug\netcoreapp3.1\экзПМ.06.runtimeconfig.json
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\bin\Debug\netcoreapp3.1\экзПМ.06.runtimeconfig.dev.json
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\bin\Debug\netcoreapp3.1\экзПМ.06.dll
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\bin\Debug\netcoreapp3.1\экзПМ.06.pdb
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\obj\Debug\netcoreapp3.1\экзПМ.06.csprojAssemblyReference.cache
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\obj\Debug\netcoreapp3.1\экзПМ.06.AssemblyInfoInputs.cache
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\obj\Debug\netcoreapp3.1\экзПМ.06.AssemblyInfo.cs
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\obj\Debug\netcoreapp3.1\экзПМ.06.csproj.CoreCompileInputs.cache
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\obj\Debug\netcoreapp3.1\экзПМ.06.dll
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\obj\Debug\netcoreapp3.1\экзПМ.06.pdb
+C:\Users\Usver\source\repos\экзПМ.06\экзПМ.06\obj\Debug\netcoreapp3.1\экзПМ.06.genruntimeconfig.cache
